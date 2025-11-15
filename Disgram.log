@@ -267,3 +267,35 @@ https://t.me/team_mew/5872
 2025-11-14 21:53:39 Bot working for homdgcat. Time passed: 1:50:34.308917
 2025-11-14 21:58:39 Bot working for team_mew. Time passed: 1:55:34.194225
 2025-11-14 21:58:40 Bot working for homdgcat. Time passed: 1:55:35.695486
+2025-11-14 22:59:55 Error scraping Telegram: HTTPSConnectionPool(host='t.me', port=443): Read timed out. (read timeout=10)
+2025-11-14 22:59:55 Error scraping Telegram: HTTPSConnectionPool(host='t.me', port=443): Read timed out. (read timeout=10)
+2025-11-14 23:00:02 Bot working for homdgcat. Time passed: 0:00:17.314931
+2025-11-14 23:00:07 Error scraping Telegram: HTTPSConnectionPool(host='t.me', port=443): Read timed out. (read timeout=10)
+2025-11-14 23:00:22 Error scraping Telegram: HTTPSConnectionPool(host='t.me', port=443): Read timed out. (read timeout=10)
+2025-11-14 23:00:40 Error scraping Telegram: HTTPSConnectionPool(host='t.me', port=443): Read timed out. (read timeout=10)
+2025-11-14 23:01:07 Error scraping Telegram: HTTPSConnectionPool(host='t.me', port=443): Read timed out. (read timeout=10)
+2025-11-14 23:01:07 Max retries reached. Skipping this iteration.
+2025-11-14 23:01:13 Bot working for team_mew. Time passed: 0:01:28.300654
+2025-11-14 23:05:03 Bot working for homdgcat. Time passed: 0:05:18.704221
+2025-11-14 23:06:15 Bot working for team_mew. Time passed: 0:06:30.905772
+2025-11-14 23:10:05 Bot working for homdgcat. Time passed: 0:10:20.204829
+2025-11-14 23:11:17 Bot working for team_mew. Time passed: 0:11:32.198994
+2025-11-14 23:15:06 Bot working for homdgcat. Time passed: 0:15:21.405265
+2025-11-14 23:16:18 Bot working for team_mew. Time passed: 0:16:33.211794
+2025-11-14 23:20:07 Bot working for homdgcat. Time passed: 0:20:22.512938
+2025-11-14 23:21:19 Bot working for team_mew. Time passed: 0:21:34.502367
+2025-11-14 23:25:08 Bot working for homdgcat. Time passed: 0:25:24.000233
+2025-11-14 23:26:20 Bot working for team_mew. Time passed: 0:26:35.704818
+2025-11-14 23:30:10 Bot working for homdgcat. Time passed: 0:30:25.613861
+2025-11-14 23:31:21 Bot working for team_mew. Time passed: 0:31:37.000523
+2025-11-14 23:35:11 Bot working for homdgcat. Time passed: 0:35:27.009588
+2025-11-14 23:36:23 Bot working for team_mew. Time passed: 0:36:38.304454
+2025-11-14 23:40:13 Bot working for homdgcat. Time passed: 0:40:28.107045
+2025-11-14 23:41:24 Bot working for team_mew. Time passed: 0:41:39.410778
+2025-11-14 23:45:15 Bot working for homdgcat. Time passed: 0:45:30.506542
+2025-11-14 23:46:26 Bot working for team_mew. Time passed: 0:46:41.113374
+2025-11-14 23:50:16 Bot working for homdgcat. Time passed: 0:50:31.613448
+2025-11-14 23:51:27 Bot working for team_mew. Time passed: 0:51:42.402450
+2025-11-14 23:55:17 Bot working for homdgcat. Time passed: 0:55:32.711919
+2025-11-14 23:56:28 Bot working for team_mew. Time passed: 0:56:43.509965
+2025-11-15 00:00:19 Bot working for homdgcat. Time passed: 1:00:34.206700
