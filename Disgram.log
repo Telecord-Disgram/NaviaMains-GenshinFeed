@@ -320,3 +320,7 @@ https://t.me/team_mew/5891
 2025-11-20 23:51:30 Bot working for homdgcat. Time passed: 0:15:32.795345
 2025-11-20 23:56:04 Bot working for team_mew. Time passed: 0:20:07.303590
 2025-11-20 23:56:31 Bot working for homdgcat. Time passed: 0:20:34.195154
+2025-11-21 01:59:28 Error scraping Telegram: HTTPSConnectionPool(host='t.me', port=443): Read timed out. (read timeout=10)
+2025-11-21 01:59:31 Bot working for team_mew. Time passed: 0:00:13.805040
+2025-11-21 01:59:33 Error scraping Telegram: HTTPSConnectionPool(host='t.me', port=443): Read timed out. (read timeout=10)
+2025-11-21 01:59:36 Bot working for homdgcat. Time passed: 0:00:18.903932
