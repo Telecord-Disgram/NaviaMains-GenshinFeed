@@ -933,3 +933,73 @@ https://t.me/team_mew/5891
 2025-11-25 01:51:09 Bot working for homdgcat. Time passed: 1:10:39.511316
 2025-11-25 01:55:49 Bot working for team_mew. Time passed: 1:15:20.108606
 2025-11-25 01:56:10 Bot working for homdgcat. Time passed: 1:15:40.603950
+2025-11-25 02:10:06 Bot working for homdgcat. Time passed: 0:00:01.503210
+2025-11-25 02:10:23 Error scraping Telegram: HTTPSConnectionPool(host='t.me', port=443): Read timed out. (read timeout=10)
+2025-11-25 02:10:26 Bot working for team_mew. Time passed: 0:00:21.497834
+2025-11-25 02:15:08 Bot working for homdgcat. Time passed: 0:05:02.800745
+2025-11-25 02:15:28 Bot working for team_mew. Time passed: 0:05:23.601103
+2025-11-25 02:20:09 New message found: https://t.me/homdgcat/7971
+2025-11-25 02:20:09 Sending message to Discord: https://t.me/homdgcat/7971
+2025-11-25 02:20:10 Message sent successfully.
+2025-11-25 02:20:10 Bot working for homdgcat. Time passed: 0:10:04.950318
+2025-11-25 02:20:30 Bot working for team_mew. Time passed: 0:10:24.999320
+2025-11-25 02:25:11 New message found: https://t.me/homdgcat/7972
+2025-11-25 02:25:11 Sending message to Discord: https://t.me/homdgcat/7972
+2025-11-25 02:25:12 Message sent successfully.
+2025-11-25 02:25:12 Bot working for homdgcat. Time passed: 0:15:07.081382
+2025-11-25 02:25:31 Bot working for team_mew. Time passed: 0:15:26.103720
+2025-11-25 02:30:13 New message found: https://t.me/homdgcat/7973
+2025-11-25 02:30:13 Sending message to Discord: https://t.me/homdgcat/7973
+2025-11-25 02:30:14 Message sent successfully.
+2025-11-25 02:30:14 Bot working for homdgcat. Time passed: 0:20:09.218125
+2025-11-25 02:30:32 Bot working for team_mew. Time passed: 0:20:27.303675
+2025-11-25 02:35:16 New message found: https://t.me/homdgcat/7974
+2025-11-25 02:35:16 Sending message to Discord: https://t.me/homdgcat/7974
+2025-11-25 02:35:16 Message sent successfully.
+2025-11-25 02:35:16 New message found: https://t.me/homdgcat/7975
+2025-11-25 02:35:16 Sending message to Discord: https://t.me/homdgcat/7975
+2025-11-25 02:35:17 Message sent successfully.
+2025-11-25 02:35:17 Bot working for homdgcat. Time passed: 0:25:11.903378
+2025-11-25 02:35:35 Bot working for team_mew. Time passed: 0:25:30.006122
+2025-11-25 02:40:18 Bot working for homdgcat. Time passed: 0:30:13.600378
+2025-11-25 02:40:36 Bot working for team_mew. Time passed: 0:30:31.200091
+2025-11-25 02:45:20 New message found: https://t.me/homdgcat/7976
+2025-11-25 02:45:20 Sending message to Discord: https://t.me/homdgcat/7976
+2025-11-25 02:45:21 Message sent successfully.
+2025-11-25 02:45:21 Bot working for homdgcat. Time passed: 0:35:15.720832
+2025-11-25 02:45:37 Bot working for team_mew. Time passed: 0:35:32.401752
+2025-11-25 02:50:22 Bot working for homdgcat. Time passed: 0:40:17.204144
+2025-11-25 02:50:39 Bot working for team_mew. Time passed: 0:40:34.002278
+2025-11-25 02:55:24 Bot working for homdgcat. Time passed: 0:45:18.708247
+2025-11-25 02:55:49 Error scraping Telegram: HTTPSConnectionPool(host='t.me', port=443): Read timed out. (read timeout=10)
+2025-11-25 02:55:52 Bot working for team_mew. Time passed: 0:45:47.497562
+2025-11-25 03:00:25 Bot working for homdgcat. Time passed: 0:50:19.808055
+2025-11-25 03:01:04 Error scraping Telegram: HTTPSConnectionPool(host='t.me', port=443): Read timed out. (read timeout=10)
+2025-11-25 03:01:07 Bot working for team_mew. Time passed: 0:51:01.898352
+2025-11-25 03:05:28 Bot working for homdgcat. Time passed: 0:55:22.900213
+2025-11-25 03:06:08 Bot working for team_mew. Time passed: 0:56:03.606428
+2025-11-25 03:10:34 Bot working for homdgcat. Time passed: 1:00:29.506591
+2025-11-25 03:11:10 Bot working for team_mew. Time passed: 1:01:05.401382
+2025-11-25 03:15:36 Bot working for homdgcat. Time passed: 1:05:30.903367
+2025-11-25 03:16:11 Bot working for team_mew. Time passed: 1:06:06.515954
+2025-11-25 03:20:37 New message found: https://t.me/homdgcat/7977
+2025-11-25 03:20:37 Sending grouped media message with 6 images and 0 videos: https://t.me/homdgcat/7977
+2025-11-25 03:20:38 Sending grouped media main message: https://t.me/homdgcat/7977
+2025-11-25 03:20:51 Grouped media message sent successfully: 6 images, 0 videos
+2025-11-25 03:20:51 Bot working for homdgcat. Time passed: 1:10:46.349181
+2025-11-25 03:21:13 Bot working for team_mew. Time passed: 1:11:07.706351
+2025-11-25 03:25:53 Bot working for homdgcat. Time passed: 1:15:47.701964
+2025-11-25 03:26:14 Bot working for team_mew. Time passed: 1:16:09.405630
+2025-11-25 03:31:03 Error scraping Telegram: HTTPSConnectionPool(host='t.me', port=443): Read timed out. (read timeout=10)
+2025-11-25 03:31:06 Bot working for homdgcat. Time passed: 1:21:01.610116
+2025-11-25 03:31:15 Bot working for team_mew. Time passed: 1:21:10.505024
+2025-11-25 03:36:08 Bot working for homdgcat. Time passed: 1:26:02.802745
+2025-11-25 03:36:17 Bot working for team_mew. Time passed: 1:26:11.707082
+2025-11-25 03:41:10 Bot working for homdgcat. Time passed: 1:31:04.902542
+2025-11-25 03:41:18 Bot working for team_mew. Time passed: 1:31:13.099356
+2025-11-25 03:46:11 Bot working for homdgcat. Time passed: 1:36:06.005504
+2025-11-25 03:46:19 Bot working for team_mew. Time passed: 1:36:14.410677
+2025-11-25 03:51:12 Bot working for homdgcat. Time passed: 1:41:07.104315
+2025-11-25 03:51:21 Bot working for team_mew. Time passed: 1:41:15.710531
+2025-11-25 03:56:14 Bot working for homdgcat. Time passed: 1:46:08.700630
+2025-11-25 03:56:22 Bot working for team_mew. Time passed: 1:46:16.811935
