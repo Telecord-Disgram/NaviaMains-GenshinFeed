@@ -717,3 +717,7 @@ https://t.me/homdgcat/7966
 2026-01-01 11:55:57 Error scraping Telegram: HTTPSConnectionPool(host='t.me', port=443): Read timed out. (read timeout=10)
 2026-01-01 11:56:00 Bot working for team_mew. Time passed: 1:30:53.691391
 2026-01-01 11:56:17 Bot working for homdgcat. Time passed: 1:31:10.280020
+2026-01-01 13:51:02 Bot working for homdgcat. Time passed: 0:00:01.804220
+2026-01-01 13:51:03 Bot working for team_mew. Time passed: 0:00:02.003376
+2026-01-01 13:56:04 Bot working for homdgcat. Time passed: 0:05:03.802685
+2026-01-01 13:56:05 Bot working for team_mew. Time passed: 0:05:04.202072
