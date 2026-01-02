@@ -840,3 +840,18 @@ https://t.me/homdgcat/7966
 2026-01-01 21:51:08 Bot working for homdgcat. Time passed: 1:00:33.106085
 2026-01-01 21:55:59 Bot working for team_mew. Time passed: 1:05:24.207683
 2026-01-01 21:56:09 Bot working for homdgcat. Time passed: 1:05:34.301056
+2026-01-01 23:36:26 Bot working for team_mew. Time passed: 0:00:01.394830
+2026-01-01 23:36:41 Error scraping Telegram: HTTPSConnectionPool(host='t.me', port=443): Read timed out. (read timeout=10)
+2026-01-01 23:36:45 Bot working for homdgcat. Time passed: 0:00:20.014808
+2026-01-01 23:41:36 Error scraping Telegram: HTTPSConnectionPool(host='t.me', port=443): Read timed out. (read timeout=10)
+2026-01-01 23:41:44 Bot working for team_mew. Time passed: 0:05:19.597793
+2026-01-01 23:41:46 Bot working for homdgcat. Time passed: 0:05:21.203945
+2026-01-01 23:46:46 Bot working for team_mew. Time passed: 0:10:21.202312
+2026-01-01 23:46:47 Bot working for homdgcat. Time passed: 0:10:22.404499
+2026-01-01 23:51:47 Bot working for team_mew. Time passed: 0:15:22.306794
+2026-01-01 23:51:48 Bot working for homdgcat. Time passed: 0:15:23.507342
+2026-01-01 23:56:48 Bot working for team_mew. Time passed: 0:20:23.397477
+2026-01-01 23:56:49 New message found: https://t.me/homdgcat/8178
+2026-01-01 23:56:51 Sending message to Discord: https://t.me/homdgcat/8178
+2026-01-01 23:56:52 Message sent successfully.
+2026-01-01 23:56:52 Bot working for homdgcat. Time passed: 0:20:27.641246
