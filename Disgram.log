@@ -175,3 +175,14 @@ https://t.me/team_mew/6245
 2026-01-05 19:54:06 Bot working for team_mew. Time passed: 1:15:24.100612
 2026-01-05 19:59:07 Bot working for team_mew. Time passed: 1:20:25.501456
 2026-01-05 21:57:55 Bot working for team_mew. Time passed: 0:00:00.897126
+2026-01-05 23:23:42 Bot working for team_mew. Time passed: 0:00:01.195777
+2026-01-05 23:28:52 Error scraping Telegram: HTTPSConnectionPool(host='t.me', port=443): Read timed out. (read timeout=10)
+2026-01-05 23:29:06 Error scraping Telegram: HTTPSConnectionPool(host='t.me', port=443): Read timed out. (read timeout=10)
+2026-01-05 23:29:12 Bot working for team_mew. Time passed: 0:05:31.405217
+2026-01-05 23:34:13 Bot working for team_mew. Time passed: 0:10:32.495730
+2026-01-05 23:39:26 Error scraping Telegram: HTTPSConnectionPool(host='t.me', port=443): Read timed out. (read timeout=10)
+2026-01-05 23:39:29 Bot working for team_mew. Time passed: 0:15:48.606013
+2026-01-05 23:44:30 Bot working for team_mew. Time passed: 0:20:49.707455
+2026-01-05 23:49:31 Bot working for team_mew. Time passed: 0:25:51.005102
+2026-01-05 23:54:32 Bot working for team_mew. Time passed: 0:30:51.999932
+2026-01-05 23:59:34 Bot working for team_mew. Time passed: 0:35:53.107564
